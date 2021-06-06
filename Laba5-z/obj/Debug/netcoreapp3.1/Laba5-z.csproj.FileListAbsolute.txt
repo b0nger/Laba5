@@ -1,0 +1,13 @@
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.exe
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.deps.json
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.runtimeconfig.json
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.dll
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\bin\Debug\netcoreapp3.1\Laba5-z.pdb
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.dll
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.pdb
+C:\Users\Daniil\source\repos\Laba5-z\Laba5-z\obj\Debug\netcoreapp3.1\Laba5-z.genruntimeconfig.cache
